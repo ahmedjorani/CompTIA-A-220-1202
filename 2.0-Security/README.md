@@ -1,4 +1,3 @@
-```markdown
 # 📁 Domain 2.0 – Security
 
 This section includes notes and breakdowns of all exam objectives related to **Security** from the **CompTIA A+ Core 2 (220-1202)** exam.
@@ -16,4 +15,3 @@ This section includes notes and breakdowns of all exam objectives related to **S
 - [2.9 – Compare and Contrast Common Data Destruction and Disposal Methods](./2.9.md)
 - [2.10 – Apply Security Settings on SOHO Wireless and Wired Networks](./2.10.md)
 - [2.11 – Configure Relevant Security Settings in a Browser](./2.11.md)
-```

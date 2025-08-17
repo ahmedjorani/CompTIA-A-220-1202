@@ -1,4 +1,3 @@
-```markdown
 # 🧠 CompTIA A+ Certification Exam Prep  
 ## EXAM NUMBER: CORE 2 (220-1202)
 
@@ -82,4 +81,3 @@ Candidates are encouraged to review the complete list and attain a working knowl
 ## SOFTWARE
 - Operating systems
   - Linux
-```

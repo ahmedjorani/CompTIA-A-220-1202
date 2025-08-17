@@ -1,4 +1,3 @@
-```markdown
 # 📁 Domain 4.0 – Operational Procedures
 
 This section includes notes and breakdowns of all exam objectives related to **Operational Procedures** from the **CompTIA A+ Core 2 (220-1202)** exam.
@@ -15,4 +14,3 @@ This section includes notes and breakdowns of all exam objectives related to **O
 - [4.8 – Basics of Scripting](./4.8.md)
 - [4.9 – Remote Access Technologies](./4.9.md)
 - [4.10 – Basic Concepts Related to Artificial Intelligence (AI)](./4.10.md)
-```
