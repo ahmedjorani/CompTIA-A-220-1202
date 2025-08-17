@@ -1,0 +1,37 @@
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# VSCode files
+.vscode/
+
+# Node.js
+node_modules/
+
+# IDEs
+.idea/
+*.iml
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Backup files
+*~
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+
+# macOS system files
+.Spotlight-V100
+.Trashes

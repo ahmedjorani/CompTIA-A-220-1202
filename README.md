@@ -28,6 +28,12 @@ The Core 2 exam validates a candidate’s ability to:
 
 ---
 
+## 📘 Acronyms and Equipment Resources
+
+- **[Acronyms List](./assets/acronym.md)**: A comprehensive list of acronyms relevant to the CompTIA A+ Core 2 exam.
+- **[Equipment and Spare Parts](./assets/equipment.md)**: Detailed information about the essential equipment, spare parts, hardware, tools, and software for the exam.
+
+---
 ## 📚 Recommended Study Resources
 
 **Paperback:**  
